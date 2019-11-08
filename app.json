@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "React Native Flatlist Example",
+    "slug": "react-native-flatlist-example",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "description":"Hello again, I welcome each and everyone of you. In this article, we will go through the process of making a example react native flatlist.As flatlists are vital parts of almost every app nowadays, The List view.Which can go from a flatlist of your contacts, to your entire app feed. You can find the entire Article here: https://reactnativemaster.com/react-native-flatlist-example",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
