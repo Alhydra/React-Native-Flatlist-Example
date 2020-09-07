@@ -16,3 +16,5 @@ Which can go from a flatlist of your contacts, to your entire app feed.
 
 Feel free to read the whole article on my blog [React Native Flatlist Example](https://reactnativemaster.com/react-native-countdown-timer-example-using-momentjs/)
 If you would like to try the app on Expo, I have prepared an expo project, check it from  [Expo.io](https://exp.host/@alhydra/react-native-flatlist-example)
+
+[Need a React Native Developer ? Hire Me](https://reactnativemaster.com/senior-react-native-developer-ready-to-go/)
